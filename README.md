@@ -14,5 +14,5 @@ $ pip install cdcdeaths --force-reinstall --no-cache-dir --no-binary :all:
 # how to run cdcdeaths
 
 $ cdcdeaths
-<img src='https://github.com/ytakefuji/cdcdeaths/raw/main/result.png' width= height=>
+<img src='https://github.com/ytakefuji/cdcdeaths/raw/main/result.png' width=640 height=480>
 
