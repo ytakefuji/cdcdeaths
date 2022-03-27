@@ -1,4 +1,7 @@
 # cdcdeaths
+
+DOI: https://doi.org/10.24433/CO.8698120.v1
+
 cdcdeaths is a PyPI package for displaying the number of deaths in the US due to COVID-19 by age groups.
 cdcdeaths can scrape the latest data from cdc.
 result.png file will be generated.
