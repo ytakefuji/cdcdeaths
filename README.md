@@ -1,4 +1,5 @@
 # cdcdeaths
+[![Open in Code Ocean](https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg)](https://codeocean.com/capsule/a32b3cd5-c35e-417e-a047-75fc0ad20bc3/tree)
 
 DOI: https://doi.org/10.24433/CO.8698120.v1
 
